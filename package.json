@@ -1,0 +1,12 @@
+{
+  "name": "spheronav-11d-zynexis",
+  "version": "1.0.0",
+  "description": "SpheroNav 11D Zynexis Core Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
